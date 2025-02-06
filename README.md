@@ -4,8 +4,6 @@
 
 eShop.com is an e-Commerce website that enables users to shop through variety of products(electronic / household / fashion) , add a product to their cart, and checkout. A user can either register their own username and password or Sign in With Google, or they can simply use the "Guest Login" button to navigate the website without registering.
 
-![download](https://user-images.githubusercontent.com/81632171/199007839-77a2f0cd-9b25-4dec-a141-30155fbc4a20.png)
-
 ## Summary
 
 - :star: [Website Link](#website-link)
@@ -14,10 +12,6 @@ eShop.com is an e-Commerce website that enables users to shop through variety of
 - :star: [Installing](#installing)
 - :star: [Built With](#built-with)
 - :star: [Software Developer](#software-developer)
-
-## LIVE-Website-Link
-
-[EShop.com](https://eshop-firebase.vercel.app/)
 
 ## Getting-Started
 
@@ -34,32 +28,6 @@ You need preferably the latest version of Chrome, and text editor.
 ## Installing
 
 To get started follow this guide:
-
-#### FOR DEVELOPMENT PURPOSES
-
-In your terminal clone repo to your local machine using git clone:
-
-```
-git clone https://github.com/kartikpavan/Fullstack-Ecommerce.git
-```
-
-Move to your newly cloned repo by entering the following in your terminal:
-
-```
-$ cd Fullstack-Ecommerce && yarn or npm install
-```
-
-To Run Project:-
-
-```
-$ yarn dev or npm run dev 
-```
-
-To open all project files from terminal using VSCode just tpye and enter:
-
-```
-$ code .
-```
 
 ## Built With
 
